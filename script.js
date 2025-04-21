@@ -22,7 +22,9 @@ function checkInputs(){
         // adicionando a classe ERROr
         errorValidação(username, 'Preencha esse campo!!')
     }
-
+1/conter 
+lengin (longin) 
+ 
 }
 
 function errorValidação(input, message){
